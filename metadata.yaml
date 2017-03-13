@@ -1,5 +1,5 @@
 _repo: Elinor-Wyllys-Or-The-Young-Folk-of-Longbridge-A-Tale-Volume-2_1928
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   creator:
     editor:
@@ -13,6 +13,9 @@ contributor:
       gutenberg_agent_id: '483'
       url: http://www.gutenberg.org/2009/agents/483
       wikipedia: http://en.wikipedia.org/wiki/James_Fenimore_Cooper
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cooper, Susan Fenimore
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/753
     wikipedia: http://en.wikipedia.org/wiki/Susan_Fenimore_Cooper
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1928#Elinor-Wyllys-Or-The-Young-Folk-of-Longbridge-A-Tale-Volume-2
 gutenberg_issued: '1999-10-01'
 gutenberg_type: Text
 identifiers:
