@@ -1,5 +1,5 @@
 _repo: Elinor-Wyllys-Or-The-Young-Folk-of-Longbridge-A-Tale-Volume-2_1928
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   creator:
     editor:
@@ -40,5 +40,6 @@ subjects:
 - !lcsh 'Frontier and pioneer life -- United States -- Fiction'
 - !lcc 'PS'
 - !lcsh 'Historical fiction'
+- GITenberg
 title: 'Elinor Wyllys; Or, The Young Folk of Longbridge: A Tale. Volume 2'
 url: http://www.gutenberg.org/ebooks/1928
